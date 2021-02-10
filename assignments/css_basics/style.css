@@ -1,0 +1,40 @@
+body{
+    background: pink;
+}
+h1{
+    background:rgb(230, 122, 224);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 0px;
+    border-width: 5px;
+    border-top: green;
+    border-left: green;
+    border-right: green;
+}
+
+h2{
+    background:rgb(243, 126, 43);
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+    border-bottom: green;
+    border-left: green;
+    border-right: green;
+}
+
+section{
+    background: rgb(252, 246, 192);
+    font-family: sans-serif;
+    font-size: 15px;
+    padding: 10px;
+}
+
+p{
+   background: rgb(182, 220, 241); 
+   font-family: sans-serif;
+   font-size: 12px;
+   padding: 10px;
+   margin-top: 0px;
+}
