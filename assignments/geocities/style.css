@@ -1,0 +1,103 @@
+body{
+    background: black;
+    background-image: url(images/hay.png);
+}
+.hay{
+    position: relative;
+    overflow: hidden;
+    mask-repeat: space;
+}
+
+nav{
+    color: white;
+    display: block;
+    position: fixed;
+    top: 0px;
+    font-family:'DotGothic16', sans-serif;
+    font-size: 20px;
+    background: black;
+}
+.cool-header{
+    text-align: center;
+    font-family: 'UnifrakturCook', cursive;
+    color: rgb(189, 117, 117); 
+    font-size: 100px;
+}
+
+.goat-dancing{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
+
+.white-head{
+    position: absolute;
+    top: 0%;
+    left: 150px;
+}
+
+.white-head-2{
+    position: absolute;
+    top: 0px;
+    right: 150px;
+}
+.baby-goat{
+    width:10em;
+    height: auto;
+}
+
+.baby-head{
+    position:absolute;
+    left: 80%;
+}
+
+.brown-white-goat{
+    position:absolute;
+    left: 55em;
+    top: 30em;
+    width: 10em;
+    height: auto;
+}
+
+.bw-goat{
+    position: absolute;
+    width: 10em;
+    height: auto;
+    top: 30em;
+    left: 20em;
+}
+
+.big-ears{
+    position:absolute;
+    width: 10em;
+    height: auto;
+    top: 42em;
+    left: 40em;
+}
+
+.intro{
+    position:absolute;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px;
+    font-family: 'DotGothic16', sans-serif;
+    top: 15em;
+    margin: 20px;
+}
+.about{
+    color: rgb(189, 117, 117);
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Big Shoulders Inline Display', cursive;
+    top: 70rem;
+    padding: 30px;
+    margin: 40px;
+    background: black;
+}
+
+.list{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Amatic SC', cursive;
+    color: white;
+}

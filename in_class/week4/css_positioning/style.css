@@ -1,0 +1,23 @@
+ .box{
+     width: 100px;
+     height: 100px;
+     background: purple;
+     margin: 1em;
+ }
+
+ .absolute{
+     background: blue;
+     width: 400px;
+     height: 400px;
+     position: absolute;
+     top: 100vw;
+     left: 100vh;
+     transform: translate(-50%, -50%);  
+ }
+
+ .fixed{
+     background: green;
+     position: fixed;
+     right: 20px;
+     top: 20px;
+     }
