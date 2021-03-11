@@ -1,0 +1,255 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone{
+    display: flex;
+    flex-direction: column;
+    background-image: url(images/phonebg.jpg);
+    border-radius: 5%;
+}
+.row{
+    display: flex;
+    flex-direction:row;
+}
+.app-1{
+    background: rgb(96, 131, 136);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image:url(images/calendarapp.jpg);
+    background-size: contain;
+} 
+
+.app-2{
+    background: rgb(196, 150, 192);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/cameraapp.jpg);
+    background-size: contain;
+}
+
+.app-3{
+    background: rgb(120, 106, 156);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/clockapp.jpg);
+    background-size: contain;
+}
+
+.app-4{
+    background: pink;
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/phoneapp.jpg);
+    background-size: cover;
+}
+
+.app-5{
+    background: rgb(120, 106, 156);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/textapp.jpg);
+    background-size: contain;
+}
+
+.app-6{
+    background: pink;
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/mapapp.jpg);
+    background-size: contain;
+}
+
+.app-7{
+    background: rgb(96, 131, 136);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/musicstreamingapp.jpg);
+    background-size: contain;
+}
+
+.app-8{
+    background:rgb(196, 150, 192);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/notesapp.jpg);
+    background-size: cover;
+}
+
+.app-9{
+    background: rgb(96, 131, 136);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/weatherapp.jpg);
+    background-size: cover;
+}
+
+.app-10{
+    background:rgb(196, 150, 192);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/venmoapp.jpg);
+    background-size: cover;
+
+}
+
+.app-11{
+    background: rgb(120, 106, 156);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/twitterapp.jpg);
+    background-size: cover;
+}
+
+.app-12{
+    background:pink;
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/settingsapp.jpg);
+    background-size: contain;
+}
+
+.app-13{
+    background: rgb(120, 106, 156);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/rideshareapp.jpg);
+    background-size: cover;
+}
+
+.app-14{
+    background: pink;
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/internetapp.jpg);
+    background-size: contain;
+}
+
+.app-15{
+    background: rgb(96, 131, 136);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/fooddeliveryapp.jpg);
+    background-size: cover;
+}
+
+.app-16{
+    background: rgb(196, 150, 192);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/gameapp.jpg);
+    background-size: cover;
+}
+
+.app-17{
+    background: rgb(96, 131, 136);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/appstoreapp.jpg);
+    background-size: cover;
+}
+
+.app-18{
+    background: rgb(196, 150, 192);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/youtubeapp.jpg);
+    background-size: cover;
+}
+
+.app-19{
+    background: rgb(120, 106, 156);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/calculatorapp.png);
+    background-size: cover;
+}
+
+.app-20{
+    background: pink;
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/compassapp.jpg);
+    background-size: cover;
+}
+
+.app-21{
+    background:rgb(120, 106, 156);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/filesapp.jpg);
+    background-size: cover;
+}
+
+.app-22{
+    background:pink;
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/podcastapp.jpg);
+    background-size: cover;
+}
+
+.app-23{
+    background: rgb(96, 131, 136);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/tiktokapp.jpg);
+    background-size: cover;
+}
+
+.app-24{
+    background:rgb(196, 150, 192);
+    width: 10vmin;
+    height: 10vmin;
+    margin: 1em 1em;
+    border-radius: 25%;
+    background-image: url(images/snapchatapp.png);
+    background-size: cover;
+}

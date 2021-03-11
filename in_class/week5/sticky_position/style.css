@@ -1,0 +1,33 @@
+  *{
+      margin: 0;
+      padding: 0;
+      box-sizing:border-box;
+  }  
+
+  header{
+      background: rgb(255, 188, 188);
+  }
+
+  main{
+      background: orange;
+      padding: 1em;
+  }
+
+  section{
+      background: rgb(255, 255, 193);
+      margin: 1em 0;
+  }
+
+section h2{
+    background: rgb(155, 196, 155);
+    position: sticky;
+    top: 0;
+}
+
+section p{
+    font-size: 3rem;
+}
+
+  footer{
+      background: rgb(92, 92, 196);
+  }

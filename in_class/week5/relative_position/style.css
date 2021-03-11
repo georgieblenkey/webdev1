@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: arial;
+}
+
+.box{
+    width: 20vmin;
+    height: 20vmin;
+    border: 2px solid green;
+    margin: 1em;
+
+}
+
+.relative-demo{
+    position: relative;
+    border: 2px solid red;
+    width: 22vmin;
+    height: 22vmin;
+    top: 50vw;
+    left: 50vw;
+}
+
+section{
+    margin: 1em 0;
+    background: #ddd;
+    padding: 1em;
+}
+
+.parent{
+    background: cornflowerblue;
+    width: 50%;
+    height: 300px;
+    margin: 1em;
+    position: relative;
+}
+
+.child{
+    background: coral;
+    position: absolute;
+    left: 10px;
+    width: 25%;
+    height: 25%;
+}
+
+.grandchild{
+    width: 50%;
+    height: 50%;
+    left: 10px;
+    position:absolute;
+    background: lightgreen;
+}
+
+.dialouge-box{
+    width: 50vw;
+    height: 20vw;
+    border: 2px solid black;
+    margin: 1em;
+    position: relative;
+}
+.close-button{
+    position: absolute;
+    text-align: center;
+    width: 5vw;
+    height: 2vw;
+    right: 0px;
+    color: black;
+    background: rgb(255, 173, 173);
+    border: 2px solid red;
+}
