@@ -13,6 +13,13 @@
     display: flex;
     flex-direction:row;
 }
+a:link {
+    color: palevioletred;
+}
+a:visited {
+    color: palevioletred;
+}
+  
 .app-1{
     background: rgb(96, 131, 136);
     width: 10vmin;
@@ -23,7 +30,12 @@
     background-size: contain;   
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 } 
 
 .app-2{
@@ -36,7 +48,12 @@
     background-size: contain;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-3{
@@ -49,7 +66,12 @@
     background-size: contain;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-4{
@@ -62,7 +84,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-5{
@@ -75,7 +102,12 @@
     background-size: contain;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-6{
@@ -88,7 +120,12 @@
     background-size: contain;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-7{
@@ -101,7 +138,12 @@
     background-size: contain;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-8{
@@ -114,7 +156,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-9{
@@ -127,7 +174,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-10{
@@ -140,7 +192,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-11{
@@ -153,7 +210,12 @@
     background-size: cover;
     text-align: center;    
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-12{
@@ -166,7 +228,12 @@
     background-size: contain;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-13{
@@ -179,7 +246,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-14{
@@ -192,7 +264,12 @@
     background-size: contain;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-15{
@@ -205,7 +282,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-16{
@@ -218,7 +300,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-17{
@@ -231,7 +318,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-18{
@@ -244,7 +336,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-19{
@@ -257,7 +354,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-20{
@@ -270,7 +372,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-21{
@@ -283,7 +390,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-22{
@@ -296,7 +408,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-23{
@@ -309,7 +426,12 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
 
 .app-24{
@@ -322,5 +444,10 @@
     background-size: cover;
     text-align: center;
     font-family: 'Poppins', sans-serif;
-    font-size: 8px;
+    font-weight: 600;
+    font-size: 1.5vmin;
+    color: black;
+    text-shadow: 1px 1px white;
+    line-height: 75px;
+    white-space: nowrap;
 }
