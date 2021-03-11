@@ -20,7 +20,10 @@
     margin: 1em 1em;
     border-radius: 25%;
     background-image:url(images/calendarapp.jpg);
-    background-size: contain;
+    background-size: contain;   
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 } 
 
 .app-2{
@@ -31,6 +34,9 @@
     border-radius: 25%;
     background-image: url(images/cameraapp.jpg);
     background-size: contain;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-3{
@@ -41,6 +47,9 @@
     border-radius: 25%;
     background-image: url(images/clockapp.jpg);
     background-size: contain;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-4{
@@ -51,6 +60,9 @@
     border-radius: 25%;
     background-image: url(images/phoneapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-5{
@@ -61,6 +73,9 @@
     border-radius: 25%;
     background-image: url(images/textapp.jpg);
     background-size: contain;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-6{
@@ -71,6 +86,9 @@
     border-radius: 25%;
     background-image: url(images/mapapp.jpg);
     background-size: contain;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-7{
@@ -81,6 +99,9 @@
     border-radius: 25%;
     background-image: url(images/musicstreamingapp.jpg);
     background-size: contain;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-8{
@@ -91,6 +112,9 @@
     border-radius: 25%;
     background-image: url(images/notesapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-9{
@@ -101,6 +125,9 @@
     border-radius: 25%;
     background-image: url(images/weatherapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-10{
@@ -111,7 +138,9 @@
     border-radius: 25%;
     background-image: url(images/venmoapp.jpg);
     background-size: cover;
-
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-11{
@@ -122,6 +151,9 @@
     border-radius: 25%;
     background-image: url(images/twitterapp.jpg);
     background-size: cover;
+    text-align: center;    
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-12{
@@ -132,6 +164,9 @@
     border-radius: 25%;
     background-image: url(images/settingsapp.jpg);
     background-size: contain;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-13{
@@ -142,6 +177,9 @@
     border-radius: 25%;
     background-image: url(images/rideshareapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-14{
@@ -152,6 +190,9 @@
     border-radius: 25%;
     background-image: url(images/internetapp.jpg);
     background-size: contain;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-15{
@@ -162,6 +203,9 @@
     border-radius: 25%;
     background-image: url(images/fooddeliveryapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-16{
@@ -172,6 +216,9 @@
     border-radius: 25%;
     background-image: url(images/gameapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-17{
@@ -182,6 +229,9 @@
     border-radius: 25%;
     background-image: url(images/appstoreapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-18{
@@ -192,6 +242,9 @@
     border-radius: 25%;
     background-image: url(images/youtubeapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-19{
@@ -202,6 +255,9 @@
     border-radius: 25%;
     background-image: url(images/calculatorapp.png);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-20{
@@ -212,6 +268,9 @@
     border-radius: 25%;
     background-image: url(images/compassapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-21{
@@ -222,6 +281,9 @@
     border-radius: 25%;
     background-image: url(images/filesapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-22{
@@ -232,6 +294,9 @@
     border-radius: 25%;
     background-image: url(images/podcastapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-23{
@@ -242,6 +307,9 @@
     border-radius: 25%;
     background-image: url(images/tiktokapp.jpg);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
 
 .app-24{
@@ -252,4 +320,7 @@
     border-radius: 25%;
     background-image: url(images/snapchatapp.png);
     background-size: cover;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 8px;
 }
