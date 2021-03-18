@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(211, 179, 243);
+}
+h1{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav{
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    font-weight: 400;
+    font-size: 25px;
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    background: rgb(255, 225, 240);
+}
+
+a:hover {
+    background-color: rgb(86, 55, 87);
+    color: white;
+  }
