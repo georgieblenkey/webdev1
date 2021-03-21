@@ -13,10 +13,18 @@ nav{
     display: block;
     position: fixed;
     top: 0px;
-    font-family:'DotGothic16', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 20px;
     background: black;
 }
+
+a:link {
+    color: rgb(170, 235, 235);
+}
+a:visited {
+    color: rgb(170, 235, 235);
+}
+
 .cool-header{
     text-align: center;
     font-family: 'UnifrakturCook', cursive;

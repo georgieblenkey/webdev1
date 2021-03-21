@@ -4,6 +4,18 @@ body{
     margin-right: 0px;
     margin-top: 0px;
 }
+
+nav a{
+    font-family: 'Poppins', sans-serif;
+}
+
+a:link {
+    color: rgb(18, 63, 63);
+}
+a:visited {
+    color: rgb(18, 63, 63);
+}
+
 h1{
     background:rgb(230, 122, 224);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
