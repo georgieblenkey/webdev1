@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(247, 205, 181);
+}
+h1{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 80px;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+a{
+    font-family: 'Spartan', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    justify-content: center;
+    text-align: center;
+    margin: .5em;
+    display: flex;
+    top: 50vmin;
+}
+
+
+  a:visited {
+    color: rgb(50, 105, 255);
+  }
+  
+  a:hover {
+    color: rgb(235, 107, 2);
+  }
+  
+.home{
+  font-family: 'Spartan', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    justify-content: center;
+    text-align: center;
+    margin: .5em;
+    display: flex;
+    top: 50vmin;
+}

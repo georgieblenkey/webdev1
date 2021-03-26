@@ -1,0 +1,59 @@
+body {
+    background: rgb(196, 216, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+    height: 50vw;
+  }
+
+  h1{
+    font-family: 'Press Start 2P', cursive; 
+  }
+  
+  a{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top:60vmin;
+    font-family: 'Spartan', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  
+
+  .bar {
+    background: rgba(255, 255, 255, 0.5);
+    justify-content: flex-start;
+    border-radius: 100px;
+    align-items: center;
+    position: relative;
+    padding: 0 5px;
+    display: flex;
+    height: 40px;
+    width: 500px;
+  }
+  
+  .loading {
+    animation: load 5s forwards;
+    border-radius: 100px;
+    height: 30px;
+    width: 0;
+    animation-timing-function: ease-in;
+  }
+  
+  @keyframes load {
+    0% { width: 0; 
+      background-color: rgb(255, 255, 255);}
+    50% {
+      background-color: rgb(236, 136, 223);
+    }
+    75%{
+      background-color: rgb(223, 119, 255);
+    }
+    100% { width: 100%;
+      background-color: rgb(174, 166, 245); }
+    
+  }
