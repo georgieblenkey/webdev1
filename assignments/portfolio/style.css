@@ -1,33 +1,62 @@
 body{
-    background-color: rgb(211, 179, 243);
+    background-image: url(images/purplebg.jpg);
 }
+
+@keyframes header {
+    from {background-color: rgb(250, 233, 255);}
+    to {background-color: transparent;}
+  }
+  
+
 h1{
-    font-family: 'Yeseva One', cursive;
-    font-size: 60px;
+    font-family: lust-sans, sans-serif;
+    font-size: 10vmin;
+    font-weight: 700;
+    font-style: normal;
+    margin: .5em auto;
+    text-align: center;
+    animation-name: header;
+    animation-duration: 4s;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    font-style: normal;
     margin: .5em auto;
     text-align: center;
 }
-
 nav{
     list-style-type: none;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
-    font-size: 30px;
+    font-size: 40px;
+    justify-content: center;
     text-align: center;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 a{
+    font-family: 'Poppins', sans-serif;
     font-weight: 400;
-    font-size: 25px;
-    display: block;
-    width: 200px;
-    margin: 0 auto;
+    font-size: 4vmin;
+    display: flex;
+    border-radius: 50%;
+    height: 20vmin;
+    width: 35vmin;
+    justify-content: center;
+    margin: 30px auto;
+    padding: 15vmin 0 0 0;
     background: rgb(255, 225, 240);
+    text-decoration: none;
 }
 
 a:hover {
-    background-color: rgb(86, 55, 87);
+    background-image: linear-gradient(rgb(234, 167, 255), rgb(59, 19, 85));
     color: white;
   }
