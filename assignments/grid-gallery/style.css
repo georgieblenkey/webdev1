@@ -1,0 +1,51 @@
+*{margin: 0; padding: 0;}
+
+h1{
+    text-align: center;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    height: 100vh;
+    margin: 2rem;
+}
+
+.grid-item{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.first{
+    grid-column: 1/ span 3;
+}
+
+.second{
+    grid-row: 2/ span 6;
+}
+
+.fifth{
+    grid-column: 2/ 2;
+}
+
+.sixth{
+    grid-row: 2/ span 3;
+}
+
+.eighth{
+    grid-row: 4/ span 1;
+}
+
+.ninth{
+    grid-column: 2/ span 2;
+}
+
+.last{
+    grid-column: 2/ span 2;
+}
