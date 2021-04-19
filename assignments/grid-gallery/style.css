@@ -40,7 +40,7 @@ body{
     background-color: rgb(95, 122, 97);
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 800px){
     .column {
       width: 50%;
     }
