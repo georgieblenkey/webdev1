@@ -1,0 +1,28 @@
+body{
+    background: pink;
+}
+
+h1{
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+h2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+button{
+    display: block;
+    justify-content: center;
+    margin: 0 auto; 
+}
+
+.displayRandomImages {
+    justify-content: center;
+    margin: 0 auto;
+}
