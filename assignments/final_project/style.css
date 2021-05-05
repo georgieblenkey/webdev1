@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(223, 217, 209);
+}
+
+h1{
+    font-family: elliotts-blue-eyeshadow,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4rem;
+    padding: 1rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+    font-family: bilo,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+a{
+    font-family: bilo,sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 7vmin;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    background-color: rgb(219, 195, 159);
+    height: 10vmin;
+    width: 80vmin;
+}
