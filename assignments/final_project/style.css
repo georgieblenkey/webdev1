@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(223, 217, 209);
+    background-color: rgb(224, 201, 245);
 }
 
 h1{
@@ -7,7 +7,7 @@ h1{
     font-weight: 400;
     font-style: normal;
     font-size: 4rem;
-    padding: 1rem;
+    padding: 2rem;
     margin: 0 auto;
     text-align: center;
 }
@@ -17,10 +17,29 @@ p{
     font-weight: 400;
     font-style: normal;
     font-size: 2rem;
-    padding: 1rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
     text-align: center;
 }
 
+a{
+    font-family: 'Spartan', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin: .5em;
+    display: flex;
+    justify-content: center;
+}
+
+
+  a:visited {
+    color: rgb(227, 217, 255);
+  }
+  
+  a:hover {
+    color: rgb(139, 199, 218);
+  }
+  
 .button{
     font-family: bilo,sans-serif;
     font-weight: 200;
@@ -29,7 +48,7 @@ p{
     margin: 0 auto;
     text-align: center;
     display: block;
-    background-color: rgb(247, 201, 102);
+    background-color: rgb(68, 81, 109);
     height: 10vmin;
     width: 80vmin;
     animation-name: button;
@@ -37,6 +56,6 @@ p{
 }
 
   @keyframes button {
-    from {background-color: rgb(255, 255, 255);}
-    to {background-color: rgb(247, 201, 102);}
+    from {background-color: rgb(224, 201, 245);}
+    to {background-color: rgb(68, 81, 109);}
   }

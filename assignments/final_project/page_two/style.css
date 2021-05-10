@@ -1,36 +1,40 @@
-*{margin: 0 auto; padding: 0;}
+*{margin: 0 auto; padding: 2vmin;}
+
+body{
+    background-color: rgb(224, 201, 245);
+}
 
 h1{
-    font-family: bilo,sans-serif;
+    font-family: bilo, sans-serif;
     font-weight: 400;
     font-style: italic;
-    font-size: 15vmin;
+    font-size: 20vmin;
     text-align: center;
     margin: 1vmin auto;
 }
 
 a{
     font-family: 'Spartan', sans-serif;
-    font-size: 30px;
+    font-size: 5vmin;
     font-weight: 600;
-    margin: .5em;
+    margin: 1vmin;
     display: flex;
     justify-content: center;
 }
 
 
   a:visited {
-    color: rgb(167, 167, 167);
+    color: rgb(77, 63, 116);
   }
   
   a:hover {
-    color: rgb(5, 65, 30);
+    color: rgb(36, 156, 192);
   }
   
 
-@media screen and (max-width: 800px){
+  @media screen and (max-width: 1rem){
     .column {
-      width: 50%;
+      width: 20%;
     }
   }
 
@@ -40,15 +44,71 @@ a{
     grid-gap: 1vmin;
     height: 100vmin;
     margin: 1vmin;
-    padding: 5vmin;
+    padding-top: 5vmin;
+    padding-bottom: 5vmin;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .grid-item{
-    width: 50vmin;
-    height: 80vmin;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
 }
 
-.last{
- grid-column: 3/2;   
+.first{
+    grid-row: 1/1;
+}
+
+.second{
+    grid-row:1/2;
+}
+
+.third{
+    grid-column: 3/2;
+}
+
+.fourth{
+    grid-column: 3/3;
+}
+
+.eighth{
+    grid-column: 3/2;
+}
+
+.ninth{
+    grid-column: 3/3;
+}
+
+.text1{
+    grid-row: 1/2;
+    font-family: bilo,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5vmax;
+}
+
+.text2{
+    grid-row: 2/span 1;
+    font-family: bilo,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5vmax;
+}
+
+.text3{
+    grid-row: 3/4;
+    grid-column: 3/3;
+    font-family: bilo,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5vmax;
+}
+
+.text4{
+    grid-row:4/4;
+    font-family: bilo,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5vmax;
 }
