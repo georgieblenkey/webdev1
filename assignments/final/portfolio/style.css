@@ -49,4 +49,62 @@ a{
     height: 100%;
     object-fit: cover;
 }
+
  
+.first{
+    grid-row: 1/1;
+}
+ 
+.second{
+    grid-row:1/2;
+}
+ 
+.third{
+    grid-column: 3/2;
+}
+ 
+.fourth{
+    grid-column: 3/3;
+}
+ 
+.seventh{
+    grid-column: 3/2;
+}
+ 
+.eighth{
+    grid-column: 3/3;
+}
+ 
+.text1{
+    grid-row: 1/2;
+    font-family: bilo,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5vmax;
+}
+ 
+.text2{
+    grid-row: 2/span 1;
+    font-family: bilo,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5vmax;
+}
+ 
+.text3{
+    grid-row: 3/4;
+    grid-column: 3/3;
+    font-family: bilo,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5vmax;
+}
+ 
+.text4{
+    grid-row:4/4;
+    font-family: bilo,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5vmax;
+}
+
