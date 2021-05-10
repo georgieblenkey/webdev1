@@ -1,7 +1,7 @@
 body{
     background-color: rgb(224, 201, 245);
 }
-
+ 
 h1{
     font-family: elliotts-blue-eyeshadow,sans-serif;
     font-weight: 400;
@@ -11,7 +11,7 @@ h1{
     margin: 0 auto;
     text-align: center;
 }
-
+ 
 p{
     font-family: bilo,sans-serif;
     font-weight: 400;
@@ -21,7 +21,7 @@ p{
     padding-right: 5rem;
     text-align: center;
 }
-
+ 
 a{
     font-family: 'Spartan', sans-serif;
     font-size: 30px;
@@ -30,8 +30,8 @@ a{
     display: flex;
     justify-content: center;
 }
-
-
+ 
+ 
   a:visited {
     color: rgb(227, 217, 255);
   }
@@ -54,7 +54,7 @@ a{
     animation-name: button;
     animation-duration: 4s;
 }
-
+ 
   @keyframes button {
     from {background-color: rgb(224, 201, 245);}
     to {background-color: rgb(68, 81, 109);}
