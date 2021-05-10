@@ -31,13 +31,7 @@ a{
     color: rgb(36, 156, 192);
   }
   
- 
-  @media screen and (max-width: 1rem){
-    .column {
-      width: 20%;
-    }
-  }
- 
+
 .gallery{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
