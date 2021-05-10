@@ -21,7 +21,15 @@ p{
     padding-right: 5rem;
     text-align: center;
 }
- 
+.home{
+  font-family: 'Spartan', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin: .5vmin;
+    display: flex;
+    justify-content: center;
+}
+
 a{
     font-family: 'Spartan', sans-serif;
     font-size: 30px;
